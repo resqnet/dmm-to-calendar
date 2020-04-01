@@ -8,6 +8,8 @@ yarn run clasp login
 yarn run clasp create dmm-to-calendar
 yarn clasp push
 yarn clasp open
+
+スクリプト実行トリガーを設定する
 ```
 
 参考：
